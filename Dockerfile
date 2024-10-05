@@ -1,4 +1,4 @@
-FROM mouxan/g4f:latest
+FROM hlohaus789/g4f:latest
 
 EXPOSE 8080
 EXPOSE 1337
