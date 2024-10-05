@@ -1,4 +1,4 @@
-FROM morningtzh/gpt4free
+FROM mouxan/g4f:latest
 
 EXPOSE 8080
 EXPOSE 1337
