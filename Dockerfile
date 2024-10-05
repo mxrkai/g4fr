@@ -1,5 +1,3 @@
 FROM hlohaus789/g4f:latest
 
-EXPOSE 8080
 EXPOSE 1337
-EXPOSE 7900
