@@ -1,3 +1,1 @@
-FROM binjie09/duckduckgo-api
-
-EXPOSE 8000
+FROM rockchin/free-one-api
