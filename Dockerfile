@@ -1,4 +1,4 @@
-FROM hlohaus789/g4f:latest
+FROM morningtzh/gpt4free
 
 EXPOSE 8080
 EXPOSE 1337
